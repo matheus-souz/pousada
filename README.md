@@ -1,2 +1,3 @@
 # pousada
-desenvolvendo um site parecido com a "trivago"
+desenvolvendo um site de cadastro de pousadas
+
